@@ -1,9 +1,11 @@
 # linux-commands-notes-level-1
 My personal notes for Linux commands.
 
-Note :- This file is designed to help with Debian and Debian-based Linux OS only and does not apply to other distributions.
+
+Note :- I have practical, hands-on experience with all these commands, along with a clear understanding of when, how, and where to apply them in real-world scenarios.
 
 
+Note :- 
 pwd 
 cd 
 cd ..
